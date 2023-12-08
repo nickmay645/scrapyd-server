@@ -2,3 +2,4 @@ scrapy
 scrapyd
 selenium
 webdriver-manager
+pywin32
