@@ -3,3 +3,4 @@ scrapyd
 selenium
 webdriver-manager
 pywin32
+scrapyd-client
